@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+*.log
+*.tmp
+*.bak
+
+dist/
+build/
+
+node_modules/

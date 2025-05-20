@@ -1,2 +1,1 @@
-# my-blog-practice
-Internship Repository
+First Repository
